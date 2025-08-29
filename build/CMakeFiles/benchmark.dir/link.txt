@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/benchmark.dir/src/benchmark.cpp.o CMakeFiles/benchmark.dir/src/power.cpp.o -o benchmark 

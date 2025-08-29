@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_power.dir/tests/test_power.cpp.o CMakeFiles/test_power.dir/src/power.cpp.o -o test_power 

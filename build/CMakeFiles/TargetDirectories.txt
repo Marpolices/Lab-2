@@ -1,0 +1,4 @@
+/workspaces/Lab-2/build/CMakeFiles/benchmark.dir
+/workspaces/Lab-2/build/CMakeFiles/test_power.dir
+/workspaces/Lab-2/build/CMakeFiles/edit_cache.dir
+/workspaces/Lab-2/build/CMakeFiles/rebuild_cache.dir
